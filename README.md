@@ -16,4 +16,4 @@ O Desafio consistia em realizar uma compra com sucesso seguind os seguintes pass
 11.Confirme a compra e valide se foi finalizada com sucesso.
 
 Foi utilizado no desenvolvimento da solução: a linguagem java, o Framework Selenium, a IDE Eclipse e a ferramente Maven.
-E como resultado foi gerado um arquivo executável .jar ("DesafioDBServer.jar"), porém o projeto também pode ser executado através da classe DesafioDB.java.
+E como resultado foi gerado um arquivo executável .jar ("DesafioDBServer.jar"), porém o projeto também pode ser executado através da classe DesafioDB.java.O executável chromedriver.exe deve ficar na mesma pasta do projeto ou do executável para a correta execução do projeto, é necessario ter instalado o navegador Google Chrome para a execução do projeto.
